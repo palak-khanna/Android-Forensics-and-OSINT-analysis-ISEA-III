@@ -1,0 +1,12 @@
+{
+  "com.simple.calculator": "Basic calculator app for arithmetic operations.",
+  "org.organicmaps": "Offline map application for navigation and directions.",
+  "com.example.camera": "Camera application for capturing photos and videos.",
+  "com.email.client": "Lightweight email client supporting IMAP and SMTP.",
+  "com.explorer.files": "File explorer for managing internal and SD card storage.",
+  "com.note.simple": "Offline note-taking app without cloud sync.",
+  "com.podcast.manager": "Podcast streaming and download manager.",
+  "com.weather.forecast": "Weather app that shows forecasts based on location.",
+  "com.wallpaper.live": "Live wallpaper app for home and lock screens.",
+  "com.notes.sync": "Note-taking app that syncs with the cloud."
+}
