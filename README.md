@@ -14,7 +14,7 @@ This repository covers **Module 1** of the project, which includes:
 ---
 ### 📺 Live Demo
 
-![App Demo](https://github.com/palak-khanna/Android-Forensics-and-OSINT-analysis-ISEA-III/blob/EDA-AIML/implementation_rec.gif)
+<img src="https://github.com/palak-khanna/Android-Forensics-and-OSINT-analysis-ISEA-III/blob/EDA-AIML/implementation_rec.gif" width="100%">
 
 
 ---
