@@ -12,7 +12,11 @@ This repository covers **Module 1** of the project, which includes:
 - 🖥️ Streamlit-based Interactive Forensic Dashboard
 
 ---
+### 📺 Live Demo
 
+![App Demo]([https://raw.githubusercontent.com/yourusername/yourrepo/main/demo.gif](https://github.com/palak-khanna/Android-Forensics-and-OSINT-analysis-ISEA-III/blob/EDA-AIML/implementation_rec.gif))
+
+---
 ## 📂 Project Structure
 
 ```bash
